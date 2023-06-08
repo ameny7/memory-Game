@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
   }
+ 
   body {
     font-family: Arial, Tahoma, sans-serif;
     background-image: linear-gradient(to bottom right, rgb(236, 171, 218) , rgb(231, 231, 242));
@@ -80,3 +81,5 @@
     transform: rotateY(180deg);
     pointer-events: none;
   }
+
+  
